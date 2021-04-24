@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arthings
-- 👀 I’m interested in Python and trying to solve daily life problems with python 
+- 👀 I’m interested in Python and trying to solve daily life problems with it.  
 - 🌱 I’m currently learning applied math in college, and Python on my own.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Twitter @LamiDesPecheurs
